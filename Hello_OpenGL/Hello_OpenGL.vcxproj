@@ -74,7 +74,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="leOne2leNine.c" />
+    <ClCompile Include="lessonNine.c" />
+    <ClCompile Include="lessonTen.c" />
     <ClCompile Include="OpenGL.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="leOne2leNine.h" />
+    <ClInclude Include="lessonNine.h" />
+    <ClInclude Include="lessonTen.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

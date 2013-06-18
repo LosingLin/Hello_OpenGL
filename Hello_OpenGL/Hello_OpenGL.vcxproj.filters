@@ -18,5 +18,25 @@
     <ClCompile Include="OpenGL.c">
       <Filter>头文件</Filter>
     </ClCompile>
+    <ClCompile Include="leOne2leNine.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lessonNine.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lessonTen.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="leOne2leNine.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="lessonNine.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="lessonTen.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
